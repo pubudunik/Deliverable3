@@ -1,0 +1,15 @@
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.csproj.AssemblyReference.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.AssemblyInfoInputs.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.AssemblyInfo.cs
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.csproj.CoreCompileInputs.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/bin/Debug/net7.0/Deliverable3
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/bin/Debug/net7.0/Deliverable3.deps.json
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/bin/Debug/net7.0/Deliverable3.runtimeconfig.json
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/bin/Debug/net7.0/Deliverable3.dll
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/bin/Debug/net7.0/Deliverable3.pdb
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.dll
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/refint/Deliverable3.dll
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.pdb
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/Deliverable3.genruntimeconfig.cache
+/Users/pubudunikaralliyadde/Projects/Deliverable3/Deliverable3/obj/Debug/net7.0/ref/Deliverable3.dll
